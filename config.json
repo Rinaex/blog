@@ -2,5 +2,21 @@
     "title":"Rin的记事本",
     "subTitle":"被神明遗忘的普通人",
     "avatarUrl":"https://avatars.githubusercontent.com/u/59467262",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "homeUrl":"blog.nene.run",
+    "startSite":"07/16/2024",
+    "onePageListNum":15,
+    "singlePage":["about"],
+    "exlink":{"music":"https://music.meekdai.com"},
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "urlMode":"ru_translit",
+    "style":"",
+    "script":"",
+    "head":"",
+    "allHead":"",
+    "indexStyle":"",
+    "indexScript":"",
+    "showPostSource":0,
+    "bottomText":"谢谢你来看我"
 }
