@@ -1,0 +1,33 @@
+[我的听书](https://pan.lanzoux.com/b873905)
+```
+这个不是破解版,软件本身自带关闭广告的选项
+可以自己抓书源,社区也提供了一些书源
+理论上书源够多就能听全网有声书
+关闭广告步骤:设置-->一些不常用的设置-->关闭广告展示
+```
+---
+[Shadowrocket](https://www.123pan.com/s/QyezVv-XUBph.html)
+```
+这玩意会在互联网自动采集一些免费代理节点
+破解了VIP 登录即是VIP(不登录也行)
+VIP无广告 有更快的采集线路
+```
+---
+[词根单词](https://www.123pan.com/s/QyezVv-GUBph.html)
+```
+不记得谁破解的了
+总之就是破解VIP
+VIP功能:
+    去广告
+    可以查看短语词组 固定搭配等内容
+    可以查看词根故事
+    可以查看单词考点
+    可以选择高频词作为学习目标
+```
+---
+[EasyJapanese](https://www.123pan.com/s/QyezVv-PUBph.html)
+```
+❗Android14好像打不开
+学日语的朋友都说这个挺好的
+破解了VIP
+```
