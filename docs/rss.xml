@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rin的记事本</title><link>https://blog.nene.run/</link><description>被神明遗忘的普通人</description><copyright>Rin的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/59467262</url><title>avatar</title><link>https://blog.nene.run/</link></image><lastBuildDate>Thu, 25 Jul 2024 01:40:18 +0000</lastBuildDate><managingEditor>Rin的记事本</managingEditor><ttl>60</ttl><webMaster>Rin的记事本</webMaster><item><title>一些好用的APP存档</title><link>https://blog.nene.run//post/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%94%A8%E7%9A%84APP%E5%AD%98%E6%A1%A3.html</link><description>[我的听书](https://pan.lanzoux.com/b873905)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rin的记事本</title><link>https://blog.nene.run/</link><description>被神明遗忘的普通人</description><copyright>Rin的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/59467262</url><title>avatar</title><link>https://blog.nene.run/</link></image><lastBuildDate>Sun, 11 Aug 2024 03:51:29 +0000</lastBuildDate><managingEditor>Rin的记事本</managingEditor><ttl>60</ttl><webMaster>Rin的记事本</webMaster><item><title>油猴脚本合集</title><link>https://blog.nene.run//post/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86.html</link><description>[VNDB优先原文和中文化](https://greasyfork.org/zh-CN/scripts/442355)&#13;
+[vndb标签布局修正](https://greasyfork.org/zh-CN/scripts/458284)&#13;
+[VNDB对条件文本完全显示](https://greasyfork.org/zh-CN/scripts/482645)&#13;
+&#13;
+[去除链接重定向](https://greasyfork.org/scripts/483475)&#13;
+[东方永页机](https://greasyfork.org/zh-CN/scripts/438684)&#13;
+[WebRTC禁用脚本](https://greasyfork.org/zh-CN/scripts/495166)&#13;
+[蓝奏网盘增强](https://greasyfork.org/zh-CN/scripts/419224)&#13;
+[MR哔哩哔哩助手](https://greasyfork.org/zh-CN/scripts/445241)&#13;
+[CSDN优化](https://greasyfork.org/zh-CN/scripts/406136)&#13;
+[简书优化](https://greasyfork.org/zh-CN/scripts/485483)&#13;
+[复制限制解除](https://greasyfork.org/zh-CN/scripts/487607)&#13;
+[Picviewer CE+](https://greasyfork.org/zh-CN/scripts/24204)&#13;
+[Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245)&#13;
+[Pixiv增强](https://greasyfork.org/zh-CN/scripts/34153)&#13;
+[PokemonShowdown汉化脚本](https://greasyfork.org/zh-CN/scripts/432623)。</description><guid isPermaLink="true">https://blog.nene.run//post/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86.html</guid><pubDate>Sun, 11 Aug 2024 03:51:06 +0000</pubDate></item><item><title>一些好用的APP存档</title><link>https://blog.nene.run//post/%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%94%A8%E7%9A%84APP%E5%AD%98%E6%A1%A3.html</link><description>[我的听书](https://pan.lanzoux.com/b873905)&#13;
 ```&#13;
 这个不是破解版,软件本身自带关闭广告的选项&#13;
 可以自己抓书源,社区也提供了一些书源&#13;
