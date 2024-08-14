@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rin的记事本</title><link>https://blog.nene.run/</link><description>被神明遗忘的普通人</description><copyright>Rin的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/59467262</url><title>avatar</title><link>https://blog.nene.run/</link></image><lastBuildDate>Sun, 11 Aug 2024 03:51:29 +0000</lastBuildDate><managingEditor>Rin的记事本</managingEditor><ttl>60</ttl><webMaster>Rin的记事本</webMaster><item><title>油猴脚本合集</title><link>https://blog.nene.run//post/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86.html</link><description>[VNDB优先原文和中文化](https://greasyfork.org/zh-CN/scripts/442355)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rin的记事本</title><link>https://blog.nene.run/</link><description>被神明遗忘的普通人</description><copyright>Rin的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/59467262</url><title>avatar</title><link>https://blog.nene.run/</link></image><lastBuildDate>Wed, 14 Aug 2024 03:15:41 +0000</lastBuildDate><managingEditor>Rin的记事本</managingEditor><ttl>60</ttl><webMaster>Rin的记事本</webMaster><item><title>修改kirikirioid2使安卓14能够安装</title><link>https://blog.nene.run//post/%E4%BF%AE%E6%94%B9kirikirioid2%E4%BD%BF%E5%AE%89%E5%8D%9314%E8%83%BD%E5%A4%9F%E5%AE%89%E8%A3%85.html</link><description>[下载](https://www.123pan.com/s/QyezVv-QHJph.html)&#13;
+&#13;
+packagename:&#13;
+1.3.4: `org.tvp.kirikiri2_free_10304`&#13;
+改为: `org.tvp.kirikiri2_free_134`&#13;
+1.3.9: `org.tvp.kirikiri2_free_10309`&#13;
+改为: `org.tvp.kirikiri2_free_139`&#13;
+&#13;
+AndroidManifest.xml 修改:&#13;
+由于安卓14无法安装TargetSDK低于23的应用&#13;
+```   &#13;
+&lt;uses-sdk  android:minSdkVersion='11' /&gt;&#13;
+```&#13;
+改为&#13;
+```   &#13;
+&lt;uses-sdk  android:minSdkVersion='11'&#13;
+           android:targetSdkVersion='30' /&gt;&#13;
+```&#13;
+manifest清单添加安卓11新存储权限以解决读写公共目录问题。</description><guid isPermaLink="true">https://blog.nene.run//post/%E4%BF%AE%E6%94%B9kirikirioid2%E4%BD%BF%E5%AE%89%E5%8D%9314%E8%83%BD%E5%A4%9F%E5%AE%89%E8%A3%85.html</guid><pubDate>Wed, 14 Aug 2024 03:15:16 +0000</pubDate></item><item><title>油猴脚本合集</title><link>https://blog.nene.run//post/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86.html</link><description>[VNDB优先原文和中文化](https://greasyfork.org/zh-CN/scripts/442355)&#13;
 [vndb标签布局修正](https://greasyfork.org/zh-CN/scripts/458284)&#13;
 [VNDB对条件文本完全显示](https://greasyfork.org/zh-CN/scripts/482645)&#13;
 &#13;
