@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rin的记事本</title><link>https://blog.nene.run/</link><description>被神明遗忘的普通人</description><copyright>Rin的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/59467262</url><title>avatar</title><link>https://blog.nene.run/</link></image><lastBuildDate>Sat, 31 Aug 2024 07:06:21 +0000</lastBuildDate><managingEditor>Rin的记事本</managingEditor><ttl>60</ttl><webMaster>Rin的记事本</webMaster><item><title>油猴脚本合集</title><link>https://blog.nene.run//post/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86.html</link><description>[VNDB优先原文和中文化](https://greasyfork.org/zh-CN/scripts/442355)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Rin的记事本</title><link>https://blog.nene.run/</link><description>被神明遗忘的普通人</description><copyright>Rin的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/59467262</url><title>avatar</title><link>https://blog.nene.run/</link></image><lastBuildDate>Sat, 31 Aug 2024 07:32:02 +0000</lastBuildDate><managingEditor>Rin的记事本</managingEditor><ttl>60</ttl><webMaster>Rin的记事本</webMaster><item><title>IDM安装教程</title><link>https://blog.nene.run//post/IDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.html</link><description>解压后得到以下两个文件 其中文件1为破解工具 文件2为安装包&#13;
+![QQ20240831-151957.png](https://p.inari.site/usr/1177/66d2c4f9a7e8c.png)&#13;
+先运行安装包正常安装IDM，待安装好后打开破解工具&#13;
+![QQ20240831-152319.png](https://p.inari.site/usr/1177/66d2c4fa65534.png)&#13;
+点击破解工具的按钮1 `Crack` 等待按钮2显示的文字变为`Finish` 后即破解完成&#13;
+之后正常运行IDM即可,浏览器需要安装IDM拓展才可以将IDM设为默认浏览器&#13;
+[EDGE拓展](https://microsoftedge.microsoft.com/addons/detail/idm-integration-module/llbjbkhnmlidjebalopleeepgdfgcpec)  其他浏览器自己去拓展商店搜索。</description><guid isPermaLink="true">https://blog.nene.run//post/IDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.html</guid><pubDate>Sat, 31 Aug 2024 07:08:36 +0000</pubDate></item><item><title>油猴脚本合集</title><link>https://blog.nene.run//post/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86.html</link><description>[VNDB优先原文和中文化](https://greasyfork.org/zh-CN/scripts/442355)&#13;
 [vndb标签布局修正](https://greasyfork.org/zh-CN/scripts/458284)&#13;
 [VNDB对条件文本完全显示](https://greasyfork.org/zh-CN/scripts/482645)&#13;
 &#13;
